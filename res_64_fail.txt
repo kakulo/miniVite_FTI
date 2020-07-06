@@ -1,0 +1,2154 @@
+TIMESTAMP START/RESTART: 1594071273.169257 (s) node quartz2725 daemon 3389
+TIMESTAMP START/RESTART: 1594071273.169369 (s) node quartz2725 daemon 3390
+[ [32mFTI  Information[0m ] : Reading FTI configuration file (config.L1.64.32.fi.fti)... 
+TIMESTAMP START/RESTART: 1594071273.169688 (s) node quartz2729 daemon 4945
+TIMESTAMP START/RESTART: 1594071273.169852 (s) node quartz2729 daemon 4946
+TIMESTAMP START/RESTART: 1594071273.169862 (s) node quartz2746 daemon 28572
+TIMESTAMP START/RESTART: 1594071273.169845 (s) node quartz2749 daemon 46133
+TIMESTAMP START/RESTART: 1594071273.169863 (s) node quartz2726 daemon 26405
+TIMESTAMP START/RESTART: 1594071273.169827 (s) node quartz2735 daemon 33186
+TIMESTAMP START/RESTART: 1594071273.169908 (s) node quartz2726 daemon 26406
+TIMESTAMP START/RESTART: 1594071273.169831 (s) node quartz2747 daemon 3403
+TIMESTAMP START/RESTART: 1594071273.165858 (s) node quartz2731 daemon 45065
+TIMESTAMP START/RESTART: 1594071273.169941 (s) node quartz2749 daemon 46134
+TIMESTAMP START/RESTART: 1594071273.170021 (s) node quartz2735 daemon 33187
+TIMESTAMP START/RESTART: 1594071273.169864 (s) node quartz2734 daemon 73297
+TIMESTAMP START/RESTART: 1594071273.169927 (s) node quartz2745 daemon 20025
+TIMESTAMP START/RESTART: 1594071273.169980 (s) node quartz2744 daemon 53258
+TIMESTAMP START/RESTART: 1594071273.169995 (s) node quartz2747 daemon 3404
+TIMESTAMP START/RESTART: 1594071273.165868 (s) node quartz2731 daemon 45066
+TIMESTAMP START/RESTART: 1594071273.169927 (s) node quartz2738 daemon 58651
+TIMESTAMP START/RESTART: 1594071273.169742 (s) node quartz2737 daemon 46502
+TIMESTAMP START/RESTART: 1594071273.169891 (s) node quartz2740 daemon 33916
+TIMESTAMP START/RESTART: 1594071273.169822 (s) node quartz2736 daemon 696
+TIMESTAMP START/RESTART: 1594071273.170013 (s) node quartz2746 daemon 28573
+TIMESTAMP START/RESTART: 1594071273.169915 (s) node quartz2750 daemon 33293
+TIMESTAMP START/RESTART: 1594071273.169929 (s) node quartz2752 daemon 40861
+TIMESTAMP START/RESTART: 1594071273.169881 (s) node quartz2739 daemon 24555
+TIMESTAMP START/RESTART: 1594071273.169937 (s) node quartz2730 daemon 1274
+TIMESTAMP START/RESTART: 1594071273.169991 (s) node quartz2732 daemon 42878
+TIMESTAMP START/RESTART: 1594071273.169970 (s) node quartz2743 daemon 26874
+TIMESTAMP START/RESTART: 1594071273.169962 (s) node quartz2734 daemon 73298
+TIMESTAMP START/RESTART: 1594071273.169903 (s) node quartz2751 daemon 68132
+TIMESTAMP START/RESTART: 1594071273.170104 (s) node quartz2745 daemon 20026
+TIMESTAMP START/RESTART: 1594071273.169945 (s) node quartz2733 daemon 45613
+TIMESTAMP START/RESTART: 1594071273.169927 (s) node quartz2738 daemon 58652
+TIMESTAMP START/RESTART: 1594071273.169914 (s) node quartz2737 daemon 46504
+TIMESTAMP START/RESTART: 1594071273.169899 (s) node quartz2740 daemon 33917
+TIMESTAMP START/RESTART: 1594071273.169965 (s) node quartz2736 daemon 695
+TIMESTAMP START/RESTART: 1594071273.170009 (s) node quartz2750 daemon 33294
+TIMESTAMP START/RESTART: 1594071273.169974 (s) node quartz2752 daemon 40862
+TIMESTAMP START/RESTART: 1594071273.169917 (s) node quartz2739 daemon 24556
+TIMESTAMP START/RESTART: 1594071273.169959 (s) node quartz2730 daemon 1275
+TIMESTAMP START/RESTART: 1594071273.170119 (s) node quartz2732 daemon 42879
+TIMESTAMP START/RESTART: 1594071273.170030 (s) node quartz2743 daemon 26873
+TIMESTAMP START/RESTART: 1594071273.170044 (s) node quartz2741 daemon 47186
+TIMESTAMP START/RESTART: 1594071273.170043 (s) node quartz2751 daemon 68131
+TIMESTAMP START/RESTART: 1594071273.170052 (s) node quartz2748 daemon 37693
+TIMESTAMP START/RESTART: 1594071273.169976 (s) node quartz2733 daemon 45614
+TIMESTAMP START/RESTART: 1594071273.170012 (s) node quartz2727 daemon 60086
+TIMESTAMP START/RESTART: 1594071273.170125 (s) node quartz2742 daemon 62180
+TIMESTAMP START/RESTART: 1594071273.170029 (s) node quartz2756 daemon 1325
+TIMESTAMP START/RESTART: 1594071273.170158 (s) node quartz2755 daemon 42035
+TIMESTAMP START/RESTART: 1594071273.170096 (s) node quartz2753 daemon 72637
+TIMESTAMP START/RESTART: 1594071273.170151 (s) node quartz2744 daemon 53257
+TIMESTAMP START/RESTART: 1594071273.170059 (s) node quartz2728 daemon 71983
+TIMESTAMP START/RESTART: 1594071273.170215 (s) node quartz2754 daemon 51342
+TIMESTAMP START/RESTART: 1594071273.170015 (s) node quartz2741 daemon 47187
+TIMESTAMP START/RESTART: 1594071273.170171 (s) node quartz2748 daemon 37692
+TIMESTAMP START/RESTART: 1594071273.170071 (s) node quartz2727 daemon 60087
+TIMESTAMP START/RESTART: 1594071273.170161 (s) node quartz2742 daemon 62181
+TIMESTAMP START/RESTART: 1594071273.170071 (s) node quartz2756 daemon 1324
+TIMESTAMP START/RESTART: 1594071273.170176 (s) node quartz2755 daemon 42036
+TIMESTAMP START/RESTART: 1594071273.170137 (s) node quartz2753 daemon 72638
+TIMESTAMP START/RESTART: 1594071273.170113 (s) node quartz2728 daemon 71982
+TIMESTAMP START/RESTART: 1594071273.170171 (s) node quartz2754 daemon 51343
+[ [32mFTI  Information[0m ] : The execution ID is: 2020-07-06_14-34-33 
+[ [32mFTI  Information[0m ] : Selected Ckpt I/O is POSIX 
+quartz2725 daemon 3390 rank 1
+quartz2747 daemon 3403 rank 44
+quartz2729 daemon 4945 rank 8
+quartz2737 daemon 46504 rank 25
+quartz2746 daemon 28573 rank 43
+quartz2750 daemon 33293 rank 50
+quartz2739 daemon 24555 rank 28
+quartz2730 daemon 1275 rank 11
+quartz2732 daemon 42878 rank 14
+quartz2743 daemon 26874 rank 37
+quartz2741 daemon 47186 rank 32
+quartz2751 daemon 68132 rank 53
+quartz2745 daemon 20025 rank 40
+quartz2727 daemon 60086 rank 4
+quartz2742 daemon 62180 rank 34
+quartz2756 daemon 1325 rank 63
+quartz2728 daemon 71983 rank 7
+quartz2754 daemon 51342 rank 58
+quartz2747 daemon 3404 rank 45
+quartz2731 daemon 45065 rank 12
+quartz2729 daemon 4946 rank 9
+quartz2738 daemon 58652 rank 27
+quartz2749 daemon 46133 rank 48
+quartz2737 daemon 46502 rank 24
+quartz2740 daemon 33916 rank 30
+quartz2736 daemon 696 rank 23
+quartz2746 daemon 28572 rank 42
+quartz2750 daemon 33294 rank 51
+quartz2752 daemon 40862 rank 55
+quartz2739 daemon 24556 rank 29
+quartz2730 daemon 1274 rank 10
+quartz2732 daemon 42879 rank 15
+quartz2735 daemon 33187 rank 21
+quartz2743 daemon 26873 rank 36
+quartz2741 daemon 47187 rank 33
+quartz2726 daemon 26405 rank 2
+quartz2734 daemon 73297 rank 18
+quartz2751 daemon 68131 rank 52
+quartz2748 daemon 37693 rank 47
+quartz2745 daemon 20026 rank 41
+quartz2733 daemon 45613 rank 16
+quartz2727 daemon 60087 rank 5
+quartz2742 daemon 62181 rank 35
+quartz2756 daemon 1324 rank 62
+quartz2755 daemon 42035 rank 60
+quartz2753 daemon 72637 rank 56
+quartz2744 daemon 53258 rank 39
+quartz2728 daemon 71982 rank 6
+quartz2754 daemon 51343 rank 59
+quartz2731 daemon 45066 rank 13
+quartz2738 daemon 58651 rank 26
+quartz2749 daemon 46134 rank 49
+quartz2740 daemon 33917 rank 31
+quartz2736 daemon 695 rank 22
+quartz2752 daemon 40861 rank 54
+quartz2735 daemon 33186 rank 20
+quartz2726 daemon 26406 rank 3
+quartz2734 daemon 73298 rank 19
+quartz2748 daemon 37692 rank 46
+quartz2733 daemon 45614 rank 17
+quartz2755 daemon 42036 rank 61
+quartz2753 daemon 72638 rank 57
+quartz2744 daemon 53257 rank 38
+[ [32mFTI  Information[0m ] : FTI has been initialized. 
+quartz2725 daemon 3389 rank 0
+Average time to generate 4000 random numbers using LCG (in s): 0.000308218
+Time to generate distributed graph of 128000 vertices (in s): 0.0309672
+Normal: g_edge_list_sz - 18303 
+Add FTI protection to Louvain data objects ... 
+Normal: g_edge_list_sz - 17253 
+Add FTI protection to Louvain data objects ... 
+[ [32mFTI  Information[0m ] : Variable ID 0 to protect (Stored in CPU). Current ckpt. size per rank is 0.00MB. 
+[ [32mFTI  Information[0m ] : Variable ID 9 to protect (Stored in CPU). Current ckpt. size per rank is 0.00MB. 
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+[ [32mFTI  Information[0m ] : Variable ID 10 to protect (Stored in CPU). Current ckpt. size per rank is 0.00MB. 
+[ [32mFTI  Information[0m ] : Variable ID 1 to protect (Stored in CPU). Current ckpt. size per rank is 0.00MB. 
+[ [32mFTI  Information[0m ] : Variable ID 2 to protect (Stored in CPU). Current ckpt. size per rank is 0.00MB. 
+[ [32mFTI  Information[0m ] : Variable ID 3 to protect (Stored in CPU). Current ckpt. size per rank is 0.00MB. 
+[ [32mFTI  Information[0m ] : Variable ID 4 to protect (Stored in CPU). Current ckpt. size per rank is 0.00MB. 
+[ [32mFTI  Information[0m ] : Variable ID 6 to protect (Stored in CPU). Current ckpt. size per rank is 0.00MB. 
+[ [32mFTI  Information[0m ] : Variable ID 7 to protect (Stored in CPU). Current ckpt. size per rank is 0.26MB. 
+[ [32mFTI  Information[0m ] : Variable ID 11 to protect (Stored in CPU). Current ckpt. size per rank is 0.26MB. 
+[ [32mFTI  Information[0m ] : Variable ID 12 to protect (Stored in CPU). Current ckpt. size per rank is 0.26MB. 
+[ [32mFTI  Information[0m ] : Variable ID 13 to protect (Stored in CPU). Current ckpt. size per rank is 0.27MB. 
+[ [32mFTI  Information[0m ] : Variable ID 14 to protect (Stored in CPU). Current ckpt. size per rank is 0.29MB. 
+[ [32mFTI  Information[0m ] : Variable ID 15 to protect (Stored in CPU). Current ckpt. size per rank is 0.30MB. 
+[ [32mFTI  Information[0m ] : Variable ID 16 to protect (Stored in CPU). Current ckpt. size per rank is 0.32MB. 
+[ [32mFTI  Information[0m ] : Variable ID 17 to protect (Stored in CPU). Current ckpt. size per rank is 0.35MB. 
+[ [32mFTI  Information[0m ] : Variable ID 18 to protect (Stored in CPU). Current ckpt. size per rank is 0.38MB. 
+[ [32mFTI  Information[0m ] : Variable ID 19 to protect (Stored in CPU). Current ckpt. size per rank is 0.39MB. 
+[ [32mFTI  Information[0m ] : Variable ID 20 to protect (Stored in CPU). Current ckpt. size per rank is 0.41MB. 
+[ [32mFTI  Information[0m ] : Variable ID 21 to protect (Stored in CPU). Current ckpt. size per rank is 0.42MB. 
+Normal: g_edge_list_sz - 18170 
+Add FTI protection to Louvain data objects ... 
+[ [32mFTI  Information[0m ] : Variable ID 22 to protect (Stored in CPU). Current ckpt. size per rank is 0.43MB. 
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Normal: g_edge_list_sz - 18467 
+Add FTI protection to Louvain data objects ... 
+Normal: g_edge_list_sz - 18216 
+Add FTI protection to Louvain data objects ... 
+Normal: g_edge_list_sz - 18166 
+Add FTI protection to Louvain data objects ... 
+Normal: g_edge_list_sz - 18426 
+Add FTI protection to Louvain data objects ... 
+Normal: g_edge_list_sz - 18111 
+Add FTI protection to Louvain data objects ... 
+Normal: g_edge_list_sz - 18184 
+Add FTI protection to Louvain data objects ... 
+Normal: g_edge_list_sz - 18291 
+Add FTI protection to Louvain data objects ... 
+Normal: g_edge_list_sz - 18040 
+Add FTI protection to Louvain data objects ... 
+Normal: g_edge_list_sz - 18655 
+Add FTI protection to Louvain data objects ... 
+Normal: g_edge_list_sz - 18787 
+Add FTI protection to Louvain data objects ... 
+Normal: g_edge_list_sz - 18332 
+Add FTI protection to Louvain data objects ... 
+Normal: g_edge_list_sz - 18272 
+Add FTI protection to Louvain data objects ... 
+Normal: g_edge_list_sz - 18152 
+Add FTI protection to Louvain data objects ... 
+Normal: g_edge_list_sz - 18400 
+Add FTI protection to Louvain data objects ... 
+Normal: g_edge_list_sz - 18177 
+Add FTI protection to Louvain data objects ... 
+Normal: g_edge_list_sz - 18207 
+Add FTI protection to Louvain data objects ... 
+Normal: g_edge_list_sz - 18447 
+Add FTI protection to Louvain data objects ... 
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Normal: g_edge_list_sz - 18266 
+Add FTI protection to Louvain data objects ... 
+Normal: g_edge_list_sz - 18366 
+Add FTI protection to Louvain data objects ... 
+Normal: g_edge_list_sz - 18371 
+Add FTI protection to Louvain data objects ... 
+Normal: g_edge_list_sz - 18674 
+Add FTI protection to Louvain data objects ... 
+Normal: g_edge_list_sz - 18589 
+Add FTI protection to Louvain data objects ... 
+Normal: g_edge_list_sz - 18073 
+Add FTI protection to Louvain data objects ... 
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Normal: g_edge_list_sz - 18446 
+Add FTI protection to Louvain data objects ... 
+Normal: g_edge_list_sz - 18398 
+Add FTI protection to Louvain data objects ... 
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Normal: g_edge_list_sz - 18410 
+Add FTI protection to Louvain data objects ... 
+Normal: g_edge_list_sz - 18671 
+Add FTI protection to Louvain data objects ... 
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Normal: g_edge_list_sz - 18433 
+Add FTI protection to Louvain data objects ... 
+Normal: g_edge_list_sz - 18585 
+Add FTI protection to Louvain data objects ... 
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Normal: g_edge_list_sz - 18290 
+Add FTI protection to Louvain data objects ... 
+Normal: g_edge_list_sz - 18416 
+Add FTI protection to Louvain data objects ... 
+Normal: g_edge_list_sz - 18551 
+Add FTI protection to Louvain data objects ... 
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Normal: g_edge_list_sz - 18753 
+Add FTI protection to Louvain data objects ... 
+Normal: g_edge_list_sz - 18408 
+Add FTI protection to Louvain data objects ... 
+Normal: g_edge_list_sz - 18526 
+Add FTI protection to Louvain data objects ... 
+Normal: g_edge_list_sz - 18273 
+Add FTI protection to Louvain data objects ... 
+Normal: g_edge_list_sz - 18560 
+Add FTI protection to Louvain data objects ... 
+Normal: g_edge_list_sz - 18938 
+Add FTI protection to Louvain data objects ... 
+Normal: g_edge_list_sz - 18223 
+Add FTI protection to Louvain data objects ... 
+Normal: g_edge_list_sz - 18251 
+Add FTI protection to Louvain data objects ... 
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Normal: g_edge_list_sz - 18695 
+Add FTI protection to Louvain data objects ... 
+Normal: g_edge_list_sz - 18179 
+Add FTI protection to Louvain data objects ... 
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Normal: g_edge_list_sz - 18428 
+Add FTI protection to Louvain data objects ... 
+Normal: g_edge_list_sz - 18455 
+Add FTI protection to Louvain data objects ... 
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Normal: g_edge_list_sz - 18455 
+Add FTI protection to Louvain data objects ... 
+Normal: g_edge_list_sz - 18378 
+Add FTI protection to Louvain data objects ... 
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Normal: g_edge_list_sz - 18518 
+Add FTI protection to Louvain data objects ... 
+Normal: g_edge_list_sz - 17229 
+Add FTI protection to Louvain data objects ... 
+Normal: g_edge_list_sz - 18349 
+Add FTI protection to Louvain data objects ... 
+Normal: g_edge_list_sz - 18001 
+Add FTI protection to Louvain data objects ... 
+Normal: g_edge_list_sz - 18808 
+Add FTI protection to Louvain data objects ... 
+Normal: g_edge_list_sz - 18808 
+Add FTI protection to Louvain data objects ... 
+Normal: g_edge_list_sz - 18435 
+Add FTI protection to Louvain data objects ... 
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Normal: g_edge_list_sz - 18402 
+Add FTI protection to Louvain data objects ... 
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Normal: g_edge_list_sz - 18611 
+Add FTI protection to Louvain data objects ... 
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Normal: g_edge_list_sz - 18549 
+Add FTI protection to Louvain data objects ... 
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Normal: g_edge_list_sz - 18187 
+Add FTI protection to Louvain data objects ... 
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Normal: g_edge_list_sz - 18281 
+Add FTI protection to Louvain data objects ... 
+Normal: g_edge_list_sz - 18698 
+Add FTI protection to Louvain data objects ... 
+Normal: g_edge_list_sz - 18405 
+Add FTI protection to Louvain data objects ... 
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Normal: g_edge_list_sz - 18114 
+Add FTI protection to Louvain data objects ... 
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+Done: Add FTI protection to data objects ... 
+********* Iteration 0 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 1 ********
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+********* Iteration 2 ********
+Do FTI checkpointing ... 
+[ [32mFTI  Information[0m ] : Post-checkpoint took 0.01 sec. (Pt:0.00s, Cl:0.01s) 
+[ [32mFTI  Information[0m ] : Ckpt. ID 2 (L1) (0.43 MB/proc) taken in 0.51 sec. (Wt:0.00s, Wr:0.50s, Ps:0.01s) 
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 3 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 4 ********
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+********* Iteration 5 ********
+Do FTI checkpointing ... 
+[ [32mFTI  Information[0m ] : Post-checkpoint took 0.45 sec. (Pt:0.43s, Cl:0.01s) 
+[ [32mFTI  Information[0m ] : Ckpt. ID 5 (L1) (0.43 MB/proc) taken in 0.48 sec. (Wt:0.00s, Wr:0.03s, Ps:0.45s) 
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 6 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 7 ********
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+********* Iteration 8 ********
+Do FTI checkpointing ... 
+[ [32mFTI  Information[0m ] : Post-checkpoint took 0.26 sec. (Pt:0.25s, Cl:0.01s) 
+[ [32mFTI  Information[0m ] : Ckpt. ID 8 (L1) (0.43 MB/proc) taken in 0.30 sec. (Wt:0.00s, Wr:0.03s, Ps:0.26s) 
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 9 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 10 ********
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+********* Iteration 11 ********
+Do FTI checkpointing ... 
+[ [32mFTI  Information[0m ] : Post-checkpoint took 0.01 sec. (Pt:0.00s, Cl:0.01s) 
+[ [32mFTI  Information[0m ] : Ckpt. ID 11 (L1) (0.43 MB/proc) taken in 0.04 sec. (Wt:0.00s, Wr:0.03s, Ps:0.01s) 
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 12 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 13 ********
+********* Iteration 14 ********
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+********* Iteration 14 ********
+Do FTI checkpointing ... 
+[ [32mFTI  Information[0m ] : Post-checkpoint took 0.01 sec. (Pt:0.00s, Cl:0.01s) 
+[ [32mFTI  Information[0m ] : Ckpt. ID 14 (L1) (0.43 MB/proc) taken in 0.04 sec. (Wt:0.00s, Wr:0.03s, Ps:0.01s) 
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 15 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 16 ********
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+********* Iteration 17 ********
+Do FTI checkpointing ... 
+Do FTI checkpointing ... 
+[ [32mFTI  Information[0m ] : Post-checkpoint took 0.01 sec. (Pt:0.00s, Cl:0.01s) 
+[ [32mFTI  Information[0m ] : Ckpt. ID 17 (L1) (0.43 MB/proc) taken in 0.04 sec. (Wt:0.00s, Wr:0.03s, Ps:0.01s) 
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+********* Iteration 18 ********
+Modularity: 0.739018, Iterations: 19, Time (in s): 1.47478
+**********************************************************************
+APP EXE TIME: 39.256308 (s) node quartz2725 daemon 3390 
+TIMESTAMP END: 1594071312.425695 (s) node quartz2725 daemon 3390
+WRITE CP TIME: 1.413327 (s) node quartz2725 daemon 3390 
+[ [32mFTI  Information[0m ] : FTI has been finalized. 
+APP EXE TIME: 39.256461 (s) node quartz2725 daemon 3389 
+TIMESTAMP END: 1594071312.425737 (s) node quartz2725 daemon 3389
+WRITE CP TIME: 1.413445 (s) node quartz2725 daemon 3389 
+APP EXE TIME: 39.255704 (s) node quartz2746 daemon 28573 
+TIMESTAMP END: 1594071312.425733 (s) node quartz2746 daemon 28573
+WRITE CP TIME: 1.413372 (s) node quartz2746 daemon 28573 
+APP EXE TIME: 39.255676 (s) node quartz2741 daemon 47186 
+TIMESTAMP END: 1594071312.425734 (s) node quartz2741 daemon 47186
+WRITE CP TIME: 1.413324 (s) node quartz2741 daemon 47186 
+APP EXE TIME: 39.255685 (s) node quartz2747 daemon 3404 
+TIMESTAMP END: 1594071312.425698 (s) node quartz2747 daemon 3404
+WRITE CP TIME: 1.413389 (s) node quartz2747 daemon 3404 
+APP EXE TIME: 39.255832 (s) node quartz2731 daemon 45065 
+TIMESTAMP END: 1594071312.421705 (s) node quartz2731 daemon 45065
+WRITE CP TIME: 1.413326 (s) node quartz2731 daemon 45065 
+APP EXE TIME: 39.255840 (s) node quartz2729 daemon 4946 
+TIMESTAMP END: 1594071312.425709 (s) node quartz2729 daemon 4946
+WRITE CP TIME: 1.413359 (s) node quartz2729 daemon 4946 
+APP EXE TIME: 39.255768 (s) node quartz2738 daemon 58652 
+TIMESTAMP END: 1594071312.425711 (s) node quartz2738 daemon 58652
+WRITE CP TIME: 1.413368 (s) node quartz2738 daemon 58652 
+APP EXE TIME: 39.255753 (s) node quartz2749 daemon 46134 
+TIMESTAMP END: 1594071312.425710 (s) node quartz2749 daemon 46134
+WRITE CP TIME: 1.413367 (s) node quartz2749 daemon 46134 
+APP EXE TIME: 39.255865 (s) node quartz2737 daemon 46502 
+TIMESTAMP END: 1594071312.425621 (s) node quartz2737 daemon 46502
+WRITE CP TIME: 1.413315 (s) node quartz2737 daemon 46502 
+APP EXE TIME: 39.255788 (s) node quartz2740 daemon 33917 
+TIMESTAMP END: 1594071312.425703 (s) node quartz2740 daemon 33917
+WRITE CP TIME: 1.413383 (s) node quartz2740 daemon 33917 
+APP EXE TIME: 39.255710 (s) node quartz2736 daemon 695 
+TIMESTAMP END: 1594071312.425689 (s) node quartz2736 daemon 695
+WRITE CP TIME: 1.413331 (s) node quartz2736 daemon 695 
+APP EXE TIME: 39.255858 (s) node quartz2746 daemon 28572 
+TIMESTAMP END: 1594071312.425733 (s) node quartz2746 daemon 28572
+WRITE CP TIME: 1.413308 (s) node quartz2746 daemon 28572 
+APP EXE TIME: 39.255727 (s) node quartz2752 daemon 40862 
+TIMESTAMP END: 1594071312.425718 (s) node quartz2752 daemon 40862
+WRITE CP TIME: 1.413392 (s) node quartz2752 daemon 40862 
+APP EXE TIME: 39.255825 (s) node quartz2739 daemon 24555 
+TIMESTAMP END: 1594071312.425721 (s) node quartz2739 daemon 24555
+WRITE CP TIME: 1.413342 (s) node quartz2739 daemon 24555 
+APP EXE TIME: 39.255702 (s) node quartz2732 daemon 42878 
+TIMESTAMP END: 1594071312.425707 (s) node quartz2732 daemon 42878
+WRITE CP TIME: 1.413334 (s) node quartz2732 daemon 42878 
+APP EXE TIME: 39.255674 (s) node quartz2735 daemon 33187 
+TIMESTAMP END: 1594071312.425712 (s) node quartz2735 daemon 33187
+WRITE CP TIME: 1.413382 (s) node quartz2735 daemon 33187 
+APP EXE TIME: 39.255785 (s) node quartz2726 daemon 26406 
+TIMESTAMP END: 1594071312.425708 (s) node quartz2726 daemon 26406
+WRITE CP TIME: 1.413350 (s) node quartz2726 daemon 26406 
+APP EXE TIME: 39.255740 (s) node quartz2734 daemon 73298 
+TIMESTAMP END: 1594071312.425719 (s) node quartz2734 daemon 73298
+WRITE CP TIME: 1.413376 (s) node quartz2734 daemon 73298 
+APP EXE TIME: 39.255528 (s) node quartz2748 daemon 37692 
+TIMESTAMP END: 1594071312.425714 (s) node quartz2748 daemon 37692
+WRITE CP TIME: 1.413316 (s) node quartz2748 daemon 37692 
+APP EXE TIME: 39.255614 (s) node quartz2745 daemon 20026 
+TIMESTAMP END: 1594071312.425734 (s) node quartz2745 daemon 20026
+WRITE CP TIME: 1.413372 (s) node quartz2745 daemon 20026 
+APP EXE TIME: 39.255768 (s) node quartz2733 daemon 45613 
+TIMESTAMP END: 1594071312.425727 (s) node quartz2733 daemon 45613
+WRITE CP TIME: 1.413328 (s) node quartz2733 daemon 45613 
+APP EXE TIME: 39.255703 (s) node quartz2727 daemon 60086 
+TIMESTAMP END: 1594071312.425728 (s) node quartz2727 daemon 60086
+WRITE CP TIME: 1.413335 (s) node quartz2727 daemon 60086 
+APP EXE TIME: 39.255577 (s) node quartz2742 daemon 62180 
+TIMESTAMP END: 1594071312.425716 (s) node quartz2742 daemon 62180
+WRITE CP TIME: 1.413314 (s) node quartz2742 daemon 62180 
+APP EXE TIME: 39.255665 (s) node quartz2756 daemon 1325 
+TIMESTAMP END: 1594071312.425710 (s) node quartz2756 daemon 1325
+WRITE CP TIME: 1.413397 (s) node quartz2756 daemon 1325 
+APP EXE TIME: 39.255534 (s) node quartz2755 daemon 42035 
+TIMESTAMP END: 1594071312.425709 (s) node quartz2755 daemon 42035
+WRITE CP TIME: 1.413339 (s) node quartz2755 daemon 42035 
+APP EXE TIME: 39.255598 (s) node quartz2753 daemon 72637 
+TIMESTAMP END: 1594071312.425708 (s) node quartz2753 daemon 72637
+WRITE CP TIME: 1.413330 (s) node quartz2753 daemon 72637 
+APP EXE TIME: 39.255734 (s) node quartz2744 daemon 53258 
+TIMESTAMP END: 1594071312.425731 (s) node quartz2744 daemon 53258
+WRITE CP TIME: 1.413379 (s) node quartz2744 daemon 53258 
+APP EXE TIME: 39.255663 (s) node quartz2728 daemon 71983 
+TIMESTAMP END: 1594071312.425738 (s) node quartz2728 daemon 71983
+WRITE CP TIME: 1.413366 (s) node quartz2728 daemon 71983 
+APP EXE TIME: 39.255526 (s) node quartz2754 daemon 51343 
+TIMESTAMP END: 1594071312.425712 (s) node quartz2754 daemon 51343
+WRITE CP TIME: 1.413389 (s) node quartz2754 daemon 51343 
+APP EXE TIME: 39.255853 (s) node quartz2747 daemon 3403 
+TIMESTAMP END: 1594071312.425699 (s) node quartz2747 daemon 3403
+WRITE CP TIME: 1.413342 (s) node quartz2747 daemon 3403 
+APP EXE TIME: 39.255818 (s) node quartz2731 daemon 45066 
+TIMESTAMP END: 1594071312.421704 (s) node quartz2731 daemon 45066
+WRITE CP TIME: 1.413371 (s) node quartz2731 daemon 45066 
+APP EXE TIME: 39.256011 (s) node quartz2729 daemon 4945 
+TIMESTAMP END: 1594071312.425713 (s) node quartz2729 daemon 4945
+WRITE CP TIME: 1.413326 (s) node quartz2729 daemon 4945 
+APP EXE TIME: 39.255771 (s) node quartz2738 daemon 58651 
+TIMESTAMP END: 1594071312.425712 (s) node quartz2738 daemon 58651
+WRITE CP TIME: 1.413312 (s) node quartz2738 daemon 58651 
+APP EXE TIME: 39.255857 (s) node quartz2749 daemon 46133 
+TIMESTAMP END: 1594071312.425717 (s) node quartz2749 daemon 46133
+WRITE CP TIME: 1.413328 (s) node quartz2749 daemon 46133 
+APP EXE TIME: 39.255686 (s) node quartz2737 daemon 46504 
+TIMESTAMP END: 1594071312.425616 (s) node quartz2737 daemon 46504
+WRITE CP TIME: 1.413355 (s) node quartz2737 daemon 46504 
+APP EXE TIME: 39.255799 (s) node quartz2740 daemon 33916 
+TIMESTAMP END: 1594071312.425704 (s) node quartz2740 daemon 33916
+WRITE CP TIME: 1.413337 (s) node quartz2740 daemon 33916 
+APP EXE TIME: 39.255850 (s) node quartz2736 daemon 696 
+TIMESTAMP END: 1594071312.425688 (s) node quartz2736 daemon 696
+WRITE CP TIME: 1.413378 (s) node quartz2736 daemon 696 
+APP EXE TIME: 39.255695 (s) node quartz2750 daemon 33294 
+TIMESTAMP END: 1594071312.425720 (s) node quartz2750 daemon 33294
+WRITE CP TIME: 1.413381 (s) node quartz2750 daemon 33294 
+APP EXE TIME: 39.255775 (s) node quartz2752 daemon 40861 
+TIMESTAMP END: 1594071312.425718 (s) node quartz2752 daemon 40861
+WRITE CP TIME: 1.413338 (s) node quartz2752 daemon 40861 
+APP EXE TIME: 39.255785 (s) node quartz2739 daemon 24556 
+TIMESTAMP END: 1594071312.425719 (s) node quartz2739 daemon 24556
+WRITE CP TIME: 1.413387 (s) node quartz2739 daemon 24556 
+APP EXE TIME: 39.255739 (s) node quartz2730 daemon 1275 
+TIMESTAMP END: 1594071312.425715 (s) node quartz2730 daemon 1275
+WRITE CP TIME: 1.413356 (s) node quartz2730 daemon 1275 
+APP EXE TIME: 39.255570 (s) node quartz2732 daemon 42879 
+TIMESTAMP END: 1594071312.425705 (s) node quartz2732 daemon 42879
+WRITE CP TIME: 1.413371 (s) node quartz2732 daemon 42879 
+APP EXE TIME: 39.255872 (s) node quartz2735 daemon 33186 
+TIMESTAMP END: 1594071312.425712 (s) node quartz2735 daemon 33186
+WRITE CP TIME: 1.413337 (s) node quartz2735 daemon 33186 
+APP EXE TIME: 39.255738 (s) node quartz2743 daemon 26874 
+TIMESTAMP END: 1594071312.425725 (s) node quartz2743 daemon 26874
+WRITE CP TIME: 1.413377 (s) node quartz2743 daemon 26874 
+APP EXE TIME: 39.255687 (s) node quartz2741 daemon 47187 
+TIMESTAMP END: 1594071312.425719 (s) node quartz2741 daemon 47187
+WRITE CP TIME: 1.413344 (s) node quartz2741 daemon 47187 
+APP EXE TIME: 39.255835 (s) node quartz2726 daemon 26405 
+TIMESTAMP END: 1594071312.425711 (s) node quartz2726 daemon 26405
+WRITE CP TIME: 1.413285 (s) node quartz2726 daemon 26405 
+APP EXE TIME: 39.255841 (s) node quartz2734 daemon 73297 
+TIMESTAMP END: 1594071312.425719 (s) node quartz2734 daemon 73297
+WRITE CP TIME: 1.413318 (s) node quartz2734 daemon 73297 
+APP EXE TIME: 39.255760 (s) node quartz2751 daemon 68132 
+TIMESTAMP END: 1594071312.425679 (s) node quartz2751 daemon 68132
+WRITE CP TIME: 1.413396 (s) node quartz2751 daemon 68132 
+APP EXE TIME: 39.255643 (s) node quartz2748 daemon 37693 
+TIMESTAMP END: 1594071312.425712 (s) node quartz2748 daemon 37693
+WRITE CP TIME: 1.413370 (s) node quartz2748 daemon 37693 
+APP EXE TIME: 39.255798 (s) node quartz2745 daemon 20025 
+TIMESTAMP END: 1594071312.425739 (s) node quartz2745 daemon 20025
+WRITE CP TIME: 1.413329 (s) node quartz2745 daemon 20025 
+APP EXE TIME: 39.255729 (s) node quartz2733 daemon 45614 
+TIMESTAMP END: 1594071312.425721 (s) node quartz2733 daemon 45614
+WRITE CP TIME: 1.413355 (s) node quartz2733 daemon 45614 
+APP EXE TIME: 39.255639 (s) node quartz2727 daemon 60087 
+TIMESTAMP END: 1594071312.425726 (s) node quartz2727 daemon 60087
+WRITE CP TIME: 1.413363 (s) node quartz2727 daemon 60087 
+APP EXE TIME: 39.255537 (s) node quartz2742 daemon 62181 
+TIMESTAMP END: 1594071312.425715 (s) node quartz2742 daemon 62181
+WRITE CP TIME: 1.413377 (s) node quartz2742 daemon 62181 
+APP EXE TIME: 39.255626 (s) node quartz2756 daemon 1324 
+TIMESTAMP END: 1594071312.425710 (s) node quartz2756 daemon 1324
+WRITE CP TIME: 1.413349 (s) node quartz2756 daemon 1324 
+APP EXE TIME: 39.255512 (s) node quartz2755 daemon 42036 
+TIMESTAMP END: 1594071312.425709 (s) node quartz2755 daemon 42036
+WRITE CP TIME: 1.413394 (s) node quartz2755 daemon 42036 
+APP EXE TIME: 39.255550 (s) node quartz2753 daemon 72638 
+TIMESTAMP END: 1594071312.425703 (s) node quartz2753 daemon 72638
+WRITE CP TIME: 1.413382 (s) node quartz2753 daemon 72638 
+APP EXE TIME: 39.255567 (s) node quartz2744 daemon 53257 
+TIMESTAMP END: 1594071312.425733 (s) node quartz2744 daemon 53257
+WRITE CP TIME: 1.413333 (s) node quartz2744 daemon 53257 
+APP EXE TIME: 39.255613 (s) node quartz2728 daemon 71982 
+TIMESTAMP END: 1594071312.425740 (s) node quartz2728 daemon 71982
+WRITE CP TIME: 1.413332 (s) node quartz2728 daemon 71982 
+APP EXE TIME: 39.255484 (s) node quartz2754 daemon 51342 
+TIMESTAMP END: 1594071312.425713 (s) node quartz2754 daemon 51342
+WRITE CP TIME: 1.413321 (s) node quartz2754 daemon 51342 
+APP EXE TIME: 39.255793 (s) node quartz2750 daemon 33293 
+TIMESTAMP END: 1594071312.425722 (s) node quartz2750 daemon 33293
+WRITE CP TIME: 1.413302 (s) node quartz2750 daemon 33293 
+APP EXE TIME: 39.255764 (s) node quartz2730 daemon 1274 
+TIMESTAMP END: 1594071312.425716 (s) node quartz2730 daemon 1274
+WRITE CP TIME: 1.413294 (s) node quartz2730 daemon 1274 
+APP EXE TIME: 39.255682 (s) node quartz2743 daemon 26873 
+TIMESTAMP END: 1594071312.425727 (s) node quartz2743 daemon 26873
+WRITE CP TIME: 1.413336 (s) node quartz2743 daemon 26873 
+APP EXE TIME: 39.255623 (s) node quartz2751 daemon 68131 
+TIMESTAMP END: 1594071312.425680 (s) node quartz2751 daemon 68131
+WRITE CP TIME: 1.413346 (s) node quartz2751 daemon 68131 

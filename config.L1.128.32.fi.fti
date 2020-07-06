@@ -2,9 +2,9 @@
 [basic]
 head                           = 0
 node_size                      = 4
-ckpt_dir                       = /dev/shm/
-glbl_dir                       = /pylon5/ccz3aip/azguolu/
-meta_dir                       = /pylon5/ccz3aip/azguolu/
+ckpt_dir                       = /dev/shm/Local/
+glbl_dir                       = /p/lustre1/koparasy/LENNY/Global/
+meta_dir                       = /p/lustre1/koparasy/LENNY/Meta
 ckpt_l1                        = 1
 ckpt_l2                        = 0
 ckpt_l3                        = 0
